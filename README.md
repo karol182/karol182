@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá!
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Metodista de São Paulo. Interesse em desenvolvimento de software, atualmente estudando Java, Python, HTML, CSS e JS.
 
-<!--
-**karol182/karol182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Buscando oportunidade de estágio na área de tecnologia.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Sistema de Cadastro de Clientes (Java)](https://github.com/karol182/sistema-cadastro-clientes-java)
+- [Sistema de Classificação de Salário (Python)](https://github.com/karol182/sistema-classificacao-salario-python)
+- [Sistema de Classificação de Desempenho Acadêmico (Java)](https://github.com/karol182/sistema-classificacao-desempenho-java)
+
+## Contato
+
+E-mail: ka182@outlook.com
