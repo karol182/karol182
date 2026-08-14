@@ -1,4 +1,5 @@
 Olá!
+
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Metodista de São Paulo. Interesse em desenvolvimento de software, atualmente estudando Java, Python, HTML, CSS e JS.
 
 Buscando oportunidade de estágio na área de tecnologia.
