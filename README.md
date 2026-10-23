@@ -10,7 +10,7 @@
 
 ```text
 ╔══════════════════════════════════════════════╗
-║  ◆ ▀▄▀▄  FICHA DA PERSONAGEM  ▄▀▄▀ ◆         ║
+║  ◆ ▀▄▀▄  FICHA DA PERSONAGEM  ▄▀▄▀ ◆        ║
 ╠══════════════════════════════════════════════╣
 ║  ▸ NOME ........ Karol Silva Homem           ║
 ║  ▸ CLASSE ...... Desenvolvedora em Formação  ║
